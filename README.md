@@ -1,16 +1,22 @@
 ## Hi there 👋
+My name is Prosper Ezekiel, a Data Analyst with a proven track record in problem-solving and creating solutions. I possess a diverse skill set in data collection, analysis, visualization, and exploration.
 
-<!--
-**Prosper-deagle10/Prosper-deagle10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+TECHNICAL SKILLS
+-Programming languages; Python and R
+-SQL
+-Microsoft excel
+-Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+STRENGTHS
+• Analytical skills
+• Problem solving skills
+
+I’m looking forward to connect with you
+
+Email: prosperousprosper100@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ezekiel-prosper10
+
+
+
