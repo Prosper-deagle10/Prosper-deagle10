@@ -5,7 +5,7 @@ My name is Prosper Ezekiel, a Data Analyst with a proven track record in problem
 TECHNICAL SKILLS
 -Programming languages; 
 
--Python and R
+-Python 
 
 -SQL
 
