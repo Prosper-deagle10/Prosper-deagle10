@@ -3,13 +3,15 @@ My name is Prosper Ezekiel, a Data Analyst with a proven track record in problem
 
 
 TECHNICAL SKILLS
--Programming languages; Python and R
+-Programming languages; 
+
+-Python and R
 
 -SQL
 
 -Microsoft excel
 
-Tableau
+-Tableau
 
 -Power BI
 
@@ -18,6 +20,7 @@ STRENGTHS
 • Analytical skills
 
 • Problem solving skills
+
 
 I’m looking forward to connect with you
 
