@@ -8,7 +8,7 @@ TECHNICAL SKILLS
 
 -SQL
 
--Microsoft excel
+-MS excel
 
 -Tableau
 
