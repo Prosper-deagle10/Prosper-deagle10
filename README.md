@@ -2,7 +2,7 @@
 My name is Prosper Ezekiel, a Data Analyst with a proven track record in problem-solving and creating solutions. I possess a diverse skill set in data collection, analysis, visualization, and exploration.
 
 
-TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 -Programming languages; -Python and R
 
@@ -16,7 +16,7 @@ TECHNICAL SKILLS
 
 -SPSS
 
-STRENGTHS
+## STRENGTHS
 
 • Analytical skills
 
