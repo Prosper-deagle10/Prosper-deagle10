@@ -12,6 +12,8 @@ My name is Prosper Ezekiel, a Data Analyst with a proven track record in problem
 
 -Tableau
 
+- Python
+
 -Power BI
 
 -SPSS
