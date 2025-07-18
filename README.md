@@ -8,7 +8,7 @@ My name is Prosper Ezekiel, a Data Analyst with a proven track record in problem
 
 -SQL
 
--MS excel
+-MS excel/Google sheet
 
 -Tableau
 -Python
